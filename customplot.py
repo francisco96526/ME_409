@@ -8,6 +8,7 @@ def plot_lines(X,Y,title="",labels=[],xlabel=r"$x$",ylabel=r"$y$",linewidth=2,sa
     The plot is saved if savefig equals True
     output: None
     """
+
     plt.figure()
 
     for i in range(X.shape[1]):
