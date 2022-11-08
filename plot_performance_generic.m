@@ -19,8 +19,8 @@ for i=1 : amount
         'Range', '6:9', ...
         'VariableNamingRule', 'preserve');
 
-    EX_all(:,i) = table2array(read_EX(:,2));             % array of EX values
-    GWP_all(:,i) = table2array(read_GWP(:,2));           % array of GWP values
+    EX_all(:,i) = table2array(read_EX(:,2));             % matrix of EX values
+    GWP_all(:,i) = table2array(read_GWP(:,2));           % matrix of GWP values
     clear read_EX read_GWP;
 end
 clear i amount;
