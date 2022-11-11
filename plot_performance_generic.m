@@ -1,6 +1,8 @@
 %% read script
 % Reads in single performance files -> copy as often as you need it
 
+
+
 files = ["performance25000.csv" "performance17500.csv" "performance10000.csv" "performance05000.csv" ...
         "performance02000.csv" "performance01500.csv" "performance01300.csv" "performance01275.csv" ...
         "performance01260.csv"];         % <- Define performance files here!
