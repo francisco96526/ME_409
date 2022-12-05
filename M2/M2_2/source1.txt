@@ -1,0 +1,11 @@
+Jessica R. Lovering, Arthur Yip, Ted Nordhaus,
+Historical construction costs of global nuclear power reactors,
+Energy Policy,
+Volume 91,
+2016,
+Pages 371-382,
+ISSN 0301-4215,
+https://doi.org/10.1016/j.enpol.2016.01.011.
+(https://www.sciencedirect.com/science/article/pii/S0301421516300106)
+Abstract: The existing literature on the construction costs of nuclear power reactors has focused almost exclusively on trends in construction costs in only two countries, the United States and France, and during two decades, the 1970s and 1980s. These analyses, Koomey and Hultman (2007); Grubler (2010), and Escobar-Rangel and Lévêque (2015), study only 26% of reactors built globally between 1960 and 2010, providing an incomplete picture of the economic evolution of nuclear power construction. This study curates historical reactor-specific overnight construction cost (OCC) data that broaden the scope of study substantially, covering the full cost history for 349 reactors in the US, France, Canada, West Germany, Japan, India, and South Korea, encompassing 58% of all reactors built globally. We find that trends in costs have varied significantly in magnitude and in structure by era, country, and experience. In contrast to the rapid cost escalation that characterized nuclear construction in the United States, we find evidence of much milder cost escalation in many countries, including absolute cost declines in some countries and specific eras. Our new findings suggest that there is no inherent cost escalation trend associated with nuclear technology.
+Keywords: Nuclear construction costs; Experience curves; International comparison
